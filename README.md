@@ -1,3 +1,5 @@
+Note: This fork is to try to get npm working cleanly in my dev environments
+
 # understrap-child
 Basic Child Theme for UnderStrap Theme Framework: https://github.com/understrap/understrap
 
